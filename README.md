@@ -16,13 +16,16 @@
 <a href="https://github.com/Toxic1239/RIASGREMORYBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/RIASGREMORYBOT?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
+### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
 
 ### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Toxic1239/RIASGREMORYBOT/fork) It
 
 ### 2. GET SESSION ID HERE 
 
 <a href='https://riasgremorybot-xcqv.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+### 3. GET CREDS.JSON HERE 
 
+<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 ### STEP 2
 ADD SESSION ID TO YOUR FORKED REPO IN CONFIG.JS
@@ -46,9 +49,13 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <a href='https://railway.com/github/Toxic1239/RIASGREMORYBOT' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
  ### DEPLOY ON RENDER 
-1. Deploy.
+1. NOT AVAILABLE 
+    
+### DEPLOY ON CODESPACE 
+1. Deploy. `Free`
+Add session Id to config.js and then deploy to codespace
     <br>
-    <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Deploy-grey?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 
 ***
 
@@ -73,10 +80,21 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 - [**On TELEGRAM**](https://t.me/Toxxicn_bot)
 
 ***
+### WARNING
+
+- **RIAS-GREMORY is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use RIAS-GREMORY at your own risk by keeping this warning in mind.*
+  
+  #### ```TOTAL REPO VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Toxic1239/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U) 
 
 ### THANKS TO:
 
 - WASI FOR SESSION ID METHOD
 - ASTRO FOR THE BASE I USED
-- DAVID CRYIL FOR INSPIRATION
 - KING FOR SONG DOWNLOADER FIX 
